@@ -1,6 +1,6 @@
 # towebp i toavif – instrukcja instalacji
 
-Stan na 17.10.2026
+Stan na 17.10.2026 · [English version](INSTRUCTIONS.md)
 
 ## Czym są towebp i toavif
 

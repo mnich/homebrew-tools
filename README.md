@@ -13,4 +13,4 @@ brew install toavif   # batch JPG/PNG -> AVIF
 | `towebp` | [mnich/towebp](https://github.com/mnich/towebp) |
 | `toavif` | [mnich/toavif](https://github.com/mnich/toavif) |
 
-📖 Pełna instrukcja po polsku (instalacja, opcje, automatyczna konwersja przez cron, problemy): [INSTRUKCJA.md](INSTRUKCJA.md)
+📖 Full guide (installation, options, automatic conversion via cron, troubleshooting): [English](INSTRUCTIONS.md) · [Polski](INSTRUKCJA.md)
